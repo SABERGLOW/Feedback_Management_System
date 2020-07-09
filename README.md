@@ -38,6 +38,10 @@ The program is be capable of following functionalities:
 *	View your Submitted Feedback
 *	Change your Password
 
+# Installation:
+Simply run "songs.exe" executable file, and follow on-screen instructions.
+
+
 # Default Parameters:
 * ADMIN
   * Admin Username: admin
@@ -47,3 +51,4 @@ The program is be capable of following functionalities:
   * Student Username: wtw2sv
   * Student Password: wali2
 
+_For detailed instructions, refer to Users' Manual and Developers Documentation_
