@@ -1,0 +1,30 @@
+1) The objectives of the training were clearly defined .
+    1. STRONGLY AGREE
+
+2) Participation and interaction were encouraged .
+    2. AGREE
+
+3) The topics covered were relevant to me .
+    3. NEUTRAL
+
+4) The content was organized and easy to follow .
+    4. DISAGREE
+
+5) The materials distributed were helpful .
+    5. STRONGLY DISAGREE
+
+6) This training experience will be useful in my work .
+    1. STRONGLY AGREE
+
+7) The trainer was knowledgeable about the training topics .
+    2. AGREE
+
+8) The trainer was well prepared .
+    3. NEUTRAL
+
+9) The training objectives were met .
+    4. DISAGREE
+
+10) The time allotted for the training was sufficient .
+    5. STRONGLY DISAGREE
+
