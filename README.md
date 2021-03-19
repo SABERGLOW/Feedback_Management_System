@@ -40,7 +40,7 @@ The program is be capable of following functionalities:
 *	Change your Password
 
 # Installation:
-Simply run "songs.exe" executable file, and follow on-screen instructions.
+Simply run "Feedback.exe" executable file, and follow on-screen instructions.
 
 
 # Default Parameters:
