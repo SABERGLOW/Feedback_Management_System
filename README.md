@@ -46,7 +46,7 @@ Simply run "Feedback.exe" executable file, and follow on-screen instructions.
 # Default Parameters:
 * ADMIN
   * Admin Username: admin
-  * Admin Password: 12345
+  * Admin Password: 45678
 
 * STUDENT
   * Student Username: wtw2sv
